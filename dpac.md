@@ -1,9 +1,9 @@
 ﻿---
 layout: page
 permalink: /dpac
-title: Digitally Programmable Analog Computer
 ---
 
+**Digitally Programmable Analog Computer**
 Electronics Design project with Dhruv Shah, Sachin Goyal
 
 [Link to project report](dpac.pdf)
