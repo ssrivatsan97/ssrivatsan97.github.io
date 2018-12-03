@@ -3,7 +3,7 @@ layout: page
 permalink: /see_in_the_dark
 ---
 
-###See In The Dark###
+### See In The Dark
 Image Processing Project along with R. Shrinivas
 
 [Link to project report](https://drive.google.com/file/d/197rulD8Zi53JZjOPDQwWhbxyBgTdWtoS/view?usp=sharing)

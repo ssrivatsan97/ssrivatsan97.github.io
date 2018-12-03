@@ -3,7 +3,7 @@ layout: page
 permalink: /voice_conversion
 ---
 
-###Voice Conversion###
+### Voice Conversion
 Machine Learning Project along with Nihal Singh, Arpan Banerjee
 
 [Link to project report](Final Report.pdf)
