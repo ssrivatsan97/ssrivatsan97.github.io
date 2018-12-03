@@ -3,7 +3,7 @@ layout: page
 permalink: /onset_detection
 ---
 
-Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music
+###Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music###
 
 [Link to publication](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf)<br/>
 [Link to conference presentation](conference_presentation.pdf)
