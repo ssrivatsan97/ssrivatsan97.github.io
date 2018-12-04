@@ -1,6 +1,5 @@
 ﻿---
 layout: page
-permalink: /voice_conversion
 ---
 
 **Voice Conversion**<br/>

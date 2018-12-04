@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-permalink: /see_in_the_dark
+title: See In The Dark
 ---
 
 **See In The Dark**<br/>
