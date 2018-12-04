@@ -1,9 +1,8 @@
 ﻿---
 layout: page
-title: See In The Dark
 ---
 
-**See In The Dark**<br/>
+### **See In The Dark** ###<br/>
 Image Processing Project along with R. Shrinivas
 
 [Link to project report](https://drive.google.com/file/d/197rulD8Zi53JZjOPDQwWhbxyBgTdWtoS/view?usp=sharing)
