@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### **Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music** ###
+<h3><b>Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music</b></h3>
 
 [Link to publication](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf)<br/>
 [Link to conference presentation](conference_presentation.pdf)
