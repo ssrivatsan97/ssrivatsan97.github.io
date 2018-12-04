@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About Me
+permalink: /about/
 ---
 
 ![my photo](photo.jpg){:height="40%" width="40%"}
