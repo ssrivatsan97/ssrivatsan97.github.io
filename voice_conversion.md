@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### **Voice Conversion** ###<br/>
+<h3> **Voice Conversion** </h3><br/>
 Machine Learning Project along with Nihal Singh, Arpan Banerjee
 
 [Link to project report](Final Report.pdf)<br/>
