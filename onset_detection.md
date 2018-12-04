@@ -12,8 +12,8 @@ soft onsets in the vicinity of loud notes. We further present a grouping algorit
 
 While the benchmark method based on spectral flux had a false negatives rate of 14.97%, our proposed method acheives a false negative rate of 3.38% while maintaining nearly the same false positives rate.
 
-<p align="center"><em>A flowchart describing the stages in our proposed method of onset detection</em></p>
 ![Flowchart](onset_flowchart.png)
+<p align="center"><em>A flowchart describing the stages in our proposed method of onset detection</em></p>
 
-<p align="center"><em>A comparison of the energy envelope method, spectral flux based benchmark method, and our method using energy-weighted bands and adaptive thresholding. Red dotted lines : ground truth onsets, Blue lines : detected onsets</em></p>
 ![Results image](onset_results.png)
+<p align="center"><em>A comparison of the energy envelope method, spectral flux based benchmark method, and our method using energy-weighted bands and adaptive thresholding. Red dotted lines : ground truth onsets, Blue lines : detected onsets</em></p>
