@@ -24,6 +24,11 @@ In this problem, two parties Alice (A) and Bob (B) have private data X and Y, re
 See in the dark is a method to reconstruct bright images from dark (low light, low exposure) images. The goal is to have such a reconstruction without increasing the noise in the resulting image. We have presented an end-to-end system for this purpose using a cGAN (Conditional Generative Adversarial Network). This project was partly inspired by [Learning to See in the Dark](https://arxiv.org/abs/1805.01934) (Chen et. al.)<br/>
 [Read more](/see_in_the_dark)
 
+1. **RF Fingerprinting Based Authentication for Bluetooth Low Energy**<br/>
+*Internship project in Massachusetts Institute of Technology*<br/>
+This project is an attempt to authenticate Bluetooth Low Energy (BLE) transmitters by identifying them through features extracted from their transmitted signals. This classification of transmitters based on features from their signals is RF Fingerprinting. The objective for such authentication in this project is to prevent battery drainage attacks on ultra-low power bluetooth receivers for IoT networks. My contribution was in developing a feature extraction pipeline and neural network for RF Fingerprinting, and reducing the energy consumption of this system.<br/>
+[Read more](/rf_fingerprinting)
+
 1. **Voice Conversion**<br/>
 *Machine Learning project along with Nihal Singh, Arpan Banerjee*<br/>
 The Voice Conversion task involves converting speech from one speaker’s (source) voice to another speaker’s (target) voice. Machine learning methods can be made to perform better than plain signal processing techniques as they can take into account multiple features of speech which cannot be characterized easily by signal processing techniques. In this 

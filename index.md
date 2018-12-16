@@ -14,6 +14,7 @@ My research interests broadly include signal processing (theory, and music/speec
 
 A couple of projects I am interested to pursue:
 1. Music processing - I am interested in music transcription, source separation, and analysis of music perception. As a musician myself, I am interested to develop tools to assist musicians and to understand music as a signal better. I have previously worked on note onset detection in piano music with a [publication](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) resulting from this work.
+1. Speech processing - I am particularly interested in studying speech perception and cognition in detail. I wish to use this knowledge to assist people with speaking or hearing diabilities to communicate better, by means of improved hearing aids and speech synthesizers.
 1. Eye-friendly displays - Traditional electronic displays are credited with causing eye strain and deteriorating the natural performance of the eyes. Many professionals who work with computers everyday face problems because of this. I am interested to study the causes of eye strain due to displays and develop alternative technologies to reduce this.
 
 I am also a singer and a violinist with training in the Carnatic (south Indian) classical style of music. I enjoy listening to music from a variety of genres and from across the world. I am an ardent fan of Indian classical music and I'm forever committed to preserving and popularising this art.
