@@ -27,7 +27,6 @@ See in the dark is a method to reconstruct bright images from dark (low light, l
 1. **RF Fingerprinting Based Authentication for Bluetooth Low Energy**<br/>
 *Internship project in Massachusetts Institute of Technology*<br/>
 This project is an attempt to authenticate Bluetooth Low Energy (BLE) transmitters by identifying them through features extracted from their transmitted signals. This classification of transmitters based on features from their signals is RF Fingerprinting. The objective for such authentication in this project is to prevent battery drainage attacks on ultra-low power bluetooth receivers for IoT networks. My contribution was in developing a feature extraction pipeline and neural network for RF Fingerprinting, and reducing the energy consumption of this system.<br/>
-[Read more](/rf_fingerprinting)
 
 1. **Voice Conversion**<br/>
 *Machine Learning project along with Nihal Singh, Arpan Banerjee*<br/>
