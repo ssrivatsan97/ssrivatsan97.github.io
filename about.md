@@ -14,8 +14,8 @@ Proc. of [National Communications Conference 2018](https://www.iith.ac.in/~ncc20
 
 ## **Other Projects** ##
 #### 2018 ####
-1. **Three-Party Secure Computation**<br/>
-*Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/) (ongoing)*<br/>
+1. **Secure Multiparty Computation**<br/>
+*Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/), [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) (as B.Tech. project)*<br/>
 In this problem, two parties Alice (A) and Bob (B) have private data X and Y, respectively. A third party Charlie (C) needs to compute a function Z = f(X,Y). This must be done in such a way that each party does not learn anything more about other parties' private data than what they already know. We wish to prove lower bounds on the amount of randomness and communication required to achieve this.<br/>
 [Read more](/secure_comp)
 

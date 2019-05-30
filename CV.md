@@ -1,4 +1,4 @@
 ---
 title: CV
 ---
-[Download CV as PDF](CV Dec 2018-2.pdf)
+[Download CV as PDF](CV Nov 2019.pdf)
