@@ -5,7 +5,7 @@ layout: page
 <h3><b>Secure Multiparty Computation</b></h3>
 Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/), [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) (as B.Tech. project)
 
-[Link to project thesis](BTP_Thesis_final.pdf)
+[Link to project thesis](BTP_Thesis_final.pdf)<br/>
 [Link to seminar presentation](BTP_presentation_final.pdf)
 
 The three-party secure computation problem is shown in the figure below. In this, two parties Alice (A) and Bob (B) have private data X and Y, respectively. A third party Charlie (C) needs to compute a function Z = f(X,Y). This must be done with the constraints that: 
