@@ -8,7 +8,7 @@ title: About Me
 
 ![my photo](photo.jpg){:height="40%" width="40%"}
 
-I am an undergraduate student at the Indian Institute of Technology Bombay (Mumbai, India), pursuing my B.Tech. degree in Electrical Engineering.
+I have obtained my B.Tech. degree in Electrical Engineering from the Indian Institute of Technology Bombay (Mumbai, India). I am about to begin my PhD in electrical engineering at Stanford University, starting from Fall 2019.
 
 My research interests broadly include signal processing (theory, and music/speech/image applications), machine learning, information theory and circuits.
 
