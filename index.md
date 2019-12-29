@@ -9,9 +9,9 @@ title: About Me
 ![my photo](photo2.jpg){:height="40%" width="40%"}
 
 #### Education
-1. B.Tech. in Electrical Engineering (2015-2019)
+1. B.Tech. in Electrical Engineering (2015-2019)<br/>
 Indian Institute of Technology Bombay (Mumbai, India)
-2. MS and PhD in Electrical Engineering (2019-)
+2. MS and PhD in Electrical Engineering (2019-)<br/>
 Stanford University (California, USA)
 
 My research interests broadly include signal processing (theory, and music/speech/image applications), machine learning and information theory.
