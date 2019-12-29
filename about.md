@@ -5,8 +5,13 @@ permalink: /projects
 ---
 
 ## **Publications** ##
+#### 2019 ####
+1. Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
+“ Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation ”<br/>
+[20th International Conference on Cryptology in India](https://www.isical.ac.in/~indocrypt2019/#/), Hyderabad, India, December 15–18, 2019, Proceedings
+[Link to publication](https://doi.org/10.1007/978-3-030-35423-7_11)
 #### 2018 ####
-1. K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and [P. Rao](https://www.ee.iitb.ac.in/wiki/faculty/prao)<br/>
+1. K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
 “ Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music ”<br/>
 Proc. of [National Communications Conference 2018](https://www.iith.ac.in/~ncc2018/), Hyderabad, India.<br/>
 [Read more](/onset_detection)<br/>
