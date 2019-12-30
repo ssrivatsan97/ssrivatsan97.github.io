@@ -8,7 +8,7 @@ title: About Me
 
 ![my photo](photo2.jpg){:height="40%" width="40%"}
 
-#### Education
+#### Education ####
 1. B.Tech. in Electrical Engineering (2015-2019)<br/>
 Indian Institute of Technology Bombay (Mumbai, India)
 2. MS and PhD in Electrical Engineering (2019-)<br/>

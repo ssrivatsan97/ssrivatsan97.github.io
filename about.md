@@ -7,7 +7,7 @@ permalink: /projects
 ## **Publications** ##
 1. Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
 “ Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation ”<br/>
-[20th International Conference on Cryptology in India](https://www.isical.ac.in/~indocrypt2019/#/), Hyderabad, India, December 15–18, 2019, Proceedings
+[20th International Conference on Cryptology in India](https://www.isical.ac.in/~indocrypt2019/#/), Hyderabad, India, December 15–18, 2019, Proceedings<br/>
 [Link to publication](https://doi.org/10.1007/978-3-030-35423-7_11)
 
 1. K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
@@ -20,9 +20,9 @@ Proc. of [National Communications Conference 2018](https://www.iith.ac.in/~ncc20
 #### 2019 ####
 1. **AdvAE and FlowAE : Sampling Arbitrary Latent Variable Distributions in an Autoencoder**
 *Deep Generative Models project in Stanford University*
-In the traditional variational autoencoder (VAE), the latent variable $z$ is sampled from a simple prior distribution $p_{\theta}(z)$, which is usually Gaussian. The simple prior makes the sampled latent variable less expressive, and the prior may not fit the data distribution well. We propose to learn an arbitrarily distributed latent space using an autoencoder and then use a generative model to learn the arbitrary distribution for the latent variable.
-For this, we propose two types of architectures. One is the AdvAE where a generator network will be adversarially trained to generate latent variable samples similar to an arbitrary latent space learned by an autoencoder. The second is FlowAE which uses a normalizing flow model which will be trained to generate latent variable samples from the same arbitrary latent space.
-[Read more](/advae)\n\n
+In the traditional variational autoencoder (VAE), the latent variable is sampled from a simple prior distribution which is usually Gaussian. The simple prior makes the sampled latent variable less expressive, and the prior may not fit the data distribution well. We propose to learn an arbitrarily distributed latent space using an autoencoder and then use a generative model to learn the arbitrary distribution for the latent variable.
+For this, we propose two types of architectures. One is the AdvAE where a generator network will be adversarially trained to generate latent variable samples similar to an arbitrary latent space learned by an autoencoder. The second is FlowAE which uses a normalizing flow model which will be trained to generate latent variable samples from the same arbitrary latent space.<br/>
+[Read more](/advae)
 
 #### 2018 ####
 1. **Secure Multiparty Computation**<br/>
