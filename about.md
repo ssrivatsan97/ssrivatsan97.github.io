@@ -16,10 +16,25 @@ Proc. of [National Communications Conference 2018](https://www.iith.ac.in/~ncc20
 [Read more](/onset_detection)<br/>
 [Link to publication](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf)
 
+## **Preprints** ##
+1.  Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
+" Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections "<br/>
+(Submitted to the [IEEE Journal on Selected Areas in Information Theory (JSAIT)](https://www.itsoc.org/publications/journal-on-selected-areas-in-information-theory-jsait) - Special Issue on Estimation and Inference, and is awaiting review. <br/>
+[Link to preprint](https://arxiv.org/abs/2006.08160)
+
+1. Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
+" Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy "<br/>
+[Link to preprint](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v1)
+
+
 ## **Other Projects** ##
 #### 2019 ####
-1. **AdvAE and FlowAE : Sampling Arbitrary Latent Variable Distributions in an Autoencoder**
-*Deep Generative Models project in Stanford University*
+<!-- 1. **Compression of Genomic Data**<br/>
+We studied lossless and lossy compression methods for raw current signals from the Nanopore genome sequencing method. Using state-of-the-art lossy compressors, we achieve as much as 40-50% reduction in the compressed size of the raw signal with negligible impact on basecalling and consensus accuracy.<br/> 
+[Link to preprint](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v1) -->
+
+1. **AdvAE and FlowAE : Sampling Arbitrary Latent Variable Distributions in an Autoencoder** <br/>
+*Deep Generative Models project in Stanford University* <br/>
 In the traditional variational autoencoder (VAE), the latent variable is sampled from a simple prior distribution which is usually Gaussian. The simple prior makes the sampled latent variable less expressive, and the prior may not fit the data distribution well. We propose to learn an arbitrarily distributed latent space using an autoencoder and then use a generative model to learn the arbitrary distribution for the latent variable.
 For this, we propose two types of architectures. One is the AdvAE where a generator network will be adversarially trained to generate latent variable samples similar to an arbitrary latent space learned by an autoencoder. The second is FlowAE which uses a normalizing flow model which will be trained to generate latent variable samples from the same arbitrary latent space.<br/>
 [Read more](/advae)
