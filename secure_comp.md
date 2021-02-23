@@ -5,7 +5,7 @@ layout: page
 <h3><b>Secure Multiparty Computation</b></h3>
 Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/), [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) (as B.Tech. project)
 
-[Link to project thesis](BTP_Thesis_final.pdf)<br/>
+[Link to B.Tech. Project thesis](BTP_Thesis_final.pdf)<br/>
 [Link to publication](https://doi.org/10.1007/978-3-030-35423-7_11)
 
 ***Abstract*** — In an influential work aimed at understanding the communication requirements
