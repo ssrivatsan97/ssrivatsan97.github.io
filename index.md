@@ -6,7 +6,7 @@ layout: home
 title: About Me
 ---
 
-![my photo](photo4.jpg){:height="200px" width="200px"}
+![my photo](photo4.jpg){:height="250px" width="250px"}
 
 ### **Education** ###
 1. B.Tech. in Electrical Engineering (2015-2019)<br/>

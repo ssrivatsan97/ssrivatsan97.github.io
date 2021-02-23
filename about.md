@@ -6,20 +6,20 @@ permalink: /projects
 
 ## **Publications** ##
 1. Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
-" [Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) "<br/>
+[Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
 Bioinformatics, Dec 2020 <br/>
 
 1.  Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
-" [Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) "<br/>
+[Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) <br/>
 IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, Nov 2020 <br/>
 
 1. Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
-“ [Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) ”<br/>
+[Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) <br/>
 20th International Conference on Cryptology in India, Hyderabad, India, Dec 2019<br/>
 [Read more](/secure_comp)
 
 1. K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
-“ [Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) ”<br/>
+[Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) <br/>
 Proc. of National Communications Conference 2018, Hyderabad, India.<br/>
 [Read more](/onset_detection)<br/>
 
