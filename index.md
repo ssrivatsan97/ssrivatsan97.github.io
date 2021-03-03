@@ -9,9 +9,9 @@ title: About Me
 ![my photo](photo4.jpg){:height="250px" width="250px"}
 
 ### **Education** ###
-1. B.Tech. in Electrical Engineering (2015-2019)<br/>
+1. B.Tech. in Electrical Engineering (2015 - 2019)<br/>
 Indian Institute of Technology Bombay (Mumbai, India)
-2. MS and PhD in Electrical Engineering (2019-)<br/>
+2. MS and PhD in Electrical Engineering (2019 - present)<br/>
 Stanford University (California, USA)
 
 My current research is in analyzing and imporving the security and latency of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections. I am grateful to have [Prof. David Tse]( https://tselab.stanford.edu/) and [Prof. Mert Pilanci](https://stanford.edu/~pilanci/) as my PhD advisors.
