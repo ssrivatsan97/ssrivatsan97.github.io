@@ -33,11 +33,6 @@ Proc. of National Communications Conference 2018, Hyderabad, India.<br/>
 In the traditional variational autoencoder (VAE), the latent variable is sampled from a simple prior distribution which is usually Gaussian. The simple prior makes the sampled latent variable less expressive, and the prior may not fit the data distribution well. We propose to learn an arbitrarily distributed latent space, and then use a generative model to learn the arbitrary distribution for the latent variable. <br/>
 [Read more](/advae)
 
-<!-- 1. **Secure Multiparty Computation**<br/>
-*Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/), [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) (as B.Tech. project)*<br/>
-In this problem, two parties Alice (A) and Bob (B) have private data X and Y, respectively. A third party Charlie (C) needs to compute a function Z = f(X,Y). This must be done in such a way that each party does not learn anything more about other parties' private data than what they already know. We analyze lower bounds on the amount of randomness and communication required to achieve this. In particular, we proved the optimality of a well known protocol of three-party secure computation of AND. We prove this under a more general weak secrecy requirement. The proof uses a novel set-theoretic approach which we believe can be extended to other security problems.<br/>
-[Read more](/secure_comp) -->
-
 1. **See in the Dark**<br/>
 *Image Processing project in IIT Bombay*<br/>
 Reconstruct bright images from dark (low light, low exposure) images, without increasing the noise in the resulting image. We have presented an end-to-end system for this purpose using a cGAN (Conditional Generative Adversarial Network). <br/>
@@ -56,3 +51,8 @@ We designed an analog computer to simulate linear dynamical systems in real time
 *Machine Learning project in IIT Bombay*<br/>
 The Voice Conversion task involves converting speech from one speaker’s (source) voice to another speaker’s (target) voice. We have explored multiple variations of Recurrent Neural Networks (RNNs) using LSTMs and GRUs. Our approach uses two independently trained neural networks - one which converts source speech to phonemes and another which converts phonemes to target speech. <br/>
 [Read more](/voice_conversion)
+
+<!-- 1. **Secure Multiparty Computation**<br/>
+*Project guided by [Prof. Sibiraj Pillai](https://www.ee.iitb.ac.in/~bsraj/), [Prof. Vinod Prabhakaran](http://www.tcs.tifr.res.in/~vinodmp/), [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) (as B.Tech. project)*<br/>
+In this problem, two parties Alice (A) and Bob (B) have private data X and Y, respectively. A third party Charlie (C) needs to compute a function Z = f(X,Y). This must be done in such a way that each party does not learn anything more about other parties' private data than what they already know. We analyze lower bounds on the amount of randomness and communication required to achieve this. In particular, we proved the optimality of a well known protocol of three-party secure computation of AND. We prove this under a more general weak secrecy requirement. The proof uses a novel set-theoretic approach which we believe can be extended to other security problems.<br/>
+[Read more](/secure_comp) -->

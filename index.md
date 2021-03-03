@@ -18,6 +18,5 @@ My current research is in analyzing and imporving the security and latency of bl
 
 Please read my [CV](CV.pdf) or look at my [projects](/projects) to know about my work and achievements.
 
-
 I am also a violinist and singer in the Carnatic (south Indian) classical style of music. I am an ardent fan of Indian classical music and I'm committed to preserving and popularising this art. <br/>
 [Youtube link to my performances](https://www.youtube.com/playlist?list=PLOqYw2iE3KdzhvCYeVnATlJJZ3kfY6p_X)

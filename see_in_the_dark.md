@@ -19,28 +19,28 @@ Image Processing Project along with R. Shrinivas
 		<td>Ground truth image</td>
 	</tr>
 	<tr>
-		<td><img src="dark1.png"></td>
-		<td><img src="result1.png"></td>
-		<td><img src="gt1.png"></td>
+		<td><img src="sitd_images/dark1.png"></td>
+		<td><img src="sitd_images/result1.png"></td>
+		<td><img src="sitd_images/gt1.png"></td>
 	</tr>
 	<tr>
-		<td><img src="dark2.png"></td>
-		<td><img src="result2.png"></td>
-		<td><img src="gt2.png"></td>
+		<td><img src="sitd_images/dark2.png"></td>
+		<td><img src="sitd_images/result2.png"></td>
+		<td><img src="sitd_images/gt2.png"></td>
 	</tr>
 	<tr>
-		<td><img src="dark3.png"></td>
-		<td><img src="result3.png"></td>
-		<td><img src="gt3.png"></td>
+		<td><img src="sitd_images/dark3.png"></td>
+		<td><img src="sitd_images/result3.png"></td>
+		<td><img src="sitd_images/gt3.png"></td>
 	</tr>
 	<tr>
-		<td><img src="dark4.png"></td>
-		<td><img src="result4.png"></td>
-		<td><img src="gt4.png"></td>
+		<td><img src="sitd_images/dark4.png"></td>
+		<td><img src="sitd_images/result4.png"></td>
+		<td><img src="sitd_images/gt4.png"></td>
 	</tr>
 	<tr>
-		<td><img src="dark5.png"></td>
-		<td><img src="result5.png"></td>
-		<td><img src="gt5.png"></td>
+		<td><img src="sitd_images/dark5.png"></td>
+		<td><img src="sitd_images/result5.png"></td>
+		<td><img src="sitd_images/gt5.png"></td>
 	</tr>
 </table>
