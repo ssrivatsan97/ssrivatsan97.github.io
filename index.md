@@ -14,7 +14,7 @@ Indian Institute of Technology Bombay (Mumbai, India)
 2. MS and PhD in Electrical Engineering (2019 - present)<br/>
 Stanford University (California, USA)
 
-My current research is in analyzing and imporving the security and latency of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections. I am grateful to have [Prof. David Tse]( https://tselab.stanford.edu/) and [Prof. Mert Pilanci](https://stanford.edu/~pilanci/) as my PhD advisors.
+My current research is in modeling bandwidth constraints and congestion in networks and their implications on the security and performance of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections. I am grateful to have [Prof. David Tse]( https://tselab.stanford.edu/) as my PhD advisor.
 
 Please read my [CV](CV.pdf) or look at my [projects](/projects) to know about my work and achievements.
 
