@@ -5,6 +5,10 @@ permalink: /projects
 ---
 
 ## **Publications** ##
+1. Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
+[Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
+Science of Blockchains Conference, Aug 2022
+
 1. Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
 [Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
 Bioinformatics, Dec 2020 <br/>
@@ -23,10 +27,6 @@ IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on 
 Proc. of National Communications Conference 2018, Hyderabad, India.<br/>
 [Read more](/onset_detection)<br/>
 
-## **Preprints** ##
-
-1. Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh<br/>
-[Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332)
 
 
 ## **Other Projects** ##
