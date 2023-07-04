@@ -4,6 +4,11 @@ title: Projects
 permalink: /projects
 ---
 
+## **Preprints** ##
+
+1. Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse <br/>
+[Security of Nakamoto Consensus under Congestion](https://eprint.iacr.org/2023/381)
+
 ## **Publications** ##
 1. Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
