@@ -10,6 +10,10 @@ permalink: /projects
 [Security of Nakamoto Consensus under Congestion](https://eprint.iacr.org/2023/381)
 
 ## **Publications** ##
+1. Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
+[Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
+Network and Distributed System Security Symposium (NDSS), Feb 2024<br/>
+
 1. Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
 Science of Blockchains Conference, Aug 2022 <br/>
