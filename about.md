@@ -6,8 +6,11 @@ permalink: /projects
 
 ## **Preprints** ##
 
+1. Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse<br/>
+[Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096)
+
 1. Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse <br/>
-[Security of Nakamoto Consensus under Congestion](https://eprint.iacr.org/2023/381)
+[Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113)
 
 ## **Publications** ##
 1. Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
