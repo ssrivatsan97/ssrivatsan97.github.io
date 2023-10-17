@@ -6,40 +6,40 @@ permalink: /projects
 
 ## **Preprints** ##
 
-1. Srivatsan Sridhar, Dionysis Zindros, David Tse<br/>
-[Better Safe than Sorry: Recovering after Adversarial Majority](https://arxiv.org/abs/2310.06338)
+1. [Better Safe than Sorry: Recovering after Adversarial Majority](https://arxiv.org/abs/2310.06338) <br/>
+Srivatsan Sridhar, Dionysis Zindros, David Tse
 
-1. Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse<br/>
-[Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096)
+1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
+Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse
 
-1. Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse <br/>
-[Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113)
+1. [Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113) <br/>
+Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse 
 
 ## **Publications** ##
-1. Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
-[Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
+1. [Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
+Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
 Network and Distributed System Security Symposium (NDSS), Feb 2024<br/>
 
-1. Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
-[Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
+1. [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
+Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 Science of Blockchains Conference, Aug 2022 <br/>
 ACM Advances in Financial Technologies, Sep 2022 <br/>
 
-1. Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
-[Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
+1. [Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
+Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
 Bioinformatics, Dec 2020 <br/>
 
-1.  Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
-[Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) <br/>
+1. [Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) <br/>
+Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
 IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, Nov 2020 <br/>
 
-1. Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
-[Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) <br/>
+1. [Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) <br/>
+Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
 20th International Conference on Cryptology in India, Hyderabad, India, Dec 2019<br/>
 [Read more](/secure_comp)
 
-1. K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
-[Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) <br/>
+1. [Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) <br/>
+K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
 Proc. of National Communications Conference 2018, Hyderabad, India.<br/>
 [Read more](/onset_detection)<br/>
 
