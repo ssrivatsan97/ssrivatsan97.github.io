@@ -9,13 +9,15 @@ permalink: /projects
 1. [Better Safe than Sorry: Recovering after Adversarial Majority](https://arxiv.org/abs/2310.06338) <br/>
 Srivatsan Sridhar, Dionysis Zindros, David Tse
 
-1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
-Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse
-
 1. [Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113) <br/>
 Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse 
 
 ## **Publications** ##
+
+1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
+Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse <br/>
+IEEE Security and Privacy, May 2024 <br/>
+
 1. [Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
 Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
 Network and Distributed System Security Symposium (NDSS), Feb 2024<br/>
