@@ -22,7 +22,7 @@ IEEE Security and Privacy, May 2024 <br/>
 Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
 Network and Distributed System Security Symposium (NDSS), Feb 2024<br/>
 
-1. [Securing Proof-of-Stake Nakamoto Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
+1. [Longest Chain Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 Science of Blockchains Conference, Aug 2022 <br/>
 ACM Advances in Financial Technologies, Sep 2022 <br/>
