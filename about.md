@@ -14,30 +14,34 @@ Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse
 
 ## **Publications** ##
 
+1. [On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648) <br/>
+Apostolos Tzinas, Srivatsan Sridhar, Dionysis Zindros <br/>
+Financial Cryptography and Data Security (FC), 2024 <br/>
+
 1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse <br/>
-IEEE Security and Privacy, May 2024 <br/>
+IEEE Security and Privacy, 2024 <br/>
 
 1. [Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
 Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
-Network and Distributed System Security Symposium (NDSS), Feb 2024<br/>
+Network and Distributed System Security Symposium (NDSS), 2024<br/>
 
 1. [Longest Chain Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 Science of Blockchains Conference, Aug 2022 <br/>
-ACM Advances in Financial Technologies, Sep 2022 <br/>
+ACM Advances in Financial Technologies, 2022 <br/>
 
 1. [Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
 Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
-Bioinformatics, Dec 2020 <br/>
+Bioinformatics, 2020 <br/>
 
 1. [Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) <br/>
 Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
-IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, Nov 2020 <br/>
+IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, 2020 <br/>
 
 1. [Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) <br/>
 Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
-20th International Conference on Cryptology in India, Hyderabad, India, Dec 2019<br/>
+20th International Conference on Cryptology in India, Hyderabad, India, 2019<br/>
 [Read more](/secure_comp)
 
 1. [Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) <br/>
