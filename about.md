@@ -9,10 +9,11 @@ permalink: /projects
 1. [Better Safe than Sorry: Recovering after Adversarial Majority](https://arxiv.org/abs/2310.06338) <br/>
 Srivatsan Sridhar, Dionysis Zindros, David Tse
 
-1. [Security of Nakamoto Consensus under Congestion](https://arxiv.org/abs/2303.09113) <br/>
-Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse 
-
 ## **Publications** ##
+
+1. [Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints](https://arxiv.org/abs/2303.09113) <br/>
+Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse  <br/>
+Computer and Communications Security (CCS), 2024 <br/>
 
 1. [On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648) <br/>
 Apostolos Tzinas, Srivatsan Sridhar, Dionysis Zindros <br/>
@@ -29,7 +30,7 @@ Network and Distributed System Security Symposium (NDSS), 2024<br/>
 1. [Longest Chain Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
 Science of Blockchains Conference, Aug 2022 <br/>
-ACM Advances in Financial Technologies, 2022 <br/>
+ACM Advances in Financial Technologies (AFT), 2022 <br/>
 
 1. [Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
 Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
