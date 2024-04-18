@@ -21,7 +21,7 @@ Financial Cryptography and Data Security (FC), 2024 <br/>
 
 1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse <br/>
-IEEE Security and Privacy, 2024 <br/>
+IEEE Symposium on Security and Privacy ("Oakland"), 2024 <br/>
 
 1. [Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
 Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
