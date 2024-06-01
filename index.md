@@ -14,7 +14,8 @@ Indian Institute of Technology Bombay (Mumbai, India)
 2. PhD in Electrical Engineering (2019 - present)<br/>
 Stanford University (California, USA)
 
-My current research is on the security and performance of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections. I am grateful to have [Prof. David Tse]( https://tselab.stanford.edu/) as my PhD advisor.
+My current research is on the security and performance of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections. I am grateful to have [Prof. David Tse](https://tselab.stanford.edu/) as my PhD advisor. During my PhD, I have done internships with [Subspace Labs](https://subspace.network/) and [Protocol Labs](https://protocol.ai/).
+ <!-- and [Mysten Labs](https://mystenlabs.com/). -->
 
 Please look at my [projects](/projects) to know about my research and publications.
 

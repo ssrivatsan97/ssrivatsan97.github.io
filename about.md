@@ -13,41 +13,45 @@ Srivatsan Sridhar, Dionysis Zindros, David Tse
 
 1. [Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints](https://arxiv.org/abs/2303.09113) <br/>
 Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse  <br/>
-Computer and Communications Security (CCS), 2024 <br/>
+*Computer and Communications Security (CCS), 2024* <br/>
 
 1. [On-Chain Timestamps Are Accurate](https://eprint.iacr.org/2023/1648) <br/>
 Apostolos Tzinas, Srivatsan Sridhar, Dionysis Zindros <br/>
-Financial Cryptography and Data Security (FC), 2024 <br/>
+*Financial Cryptography and Data Security (FC), 2024 ([Talk video, presented by Apostolos](https://www.youtube.com/watch?v=QAZkoKOPmTg))* <br/>
 
 1. [Optimal Flexible Consensus and its Application to Ethereum](https://arxiv.org/abs/2308.05096) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang, David Tse <br/>
-IEEE Symposium on Security and Privacy ("Oakland"), 2024 <br/>
+*IEEE Symposium on Security and Privacy ("Oakland"), 2024* <br/>
+*Invited Talk at CMU Secure Blockchain Summit 2024 ([Talk video](https://www.youtube.com/watch?v=qOXu0uJCUVE))*<br/>
+<!-- [Talk at The Workshop on Heterogeneous Trust in Distributed Systems @ AFT 2023](https://www.youtube.com/watch?v=qCZZ7SLL93s)*<br/> -->
+<!-- [Talk at the Tata Institute for Fundamental Research, Mumbai](https://www.youtube.com/watch?v=W3qSoYhg_Rw)*<br/> -->
 
 1. [Content Censorship in the InterPlanetary File System](https://arxiv.org/abs/2307.12212)<br/>
 Srivatsan Sridhar, Onur Ascigil, Navin Keizer, François Genon, Sébastien Pierre, Yiannis Psaras, Etienne Rivière, Michał Król<br/>
-Network and Distributed System Security Symposium (NDSS), 2024<br/>
+*Network and Distributed System Security Symposium (NDSS), 2024 ([Talk video](https://www.youtube.com/watch?v=UpHP_t9I9uQ))*<br/>
 
 1. [Longest Chain Consensus Under Bandwidth Constraint](https://arxiv.org/abs/2111.12332) <br/>
 Joachim Neu, Srivatsan Sridhar, Lei Yang (equal contribution), David Tse, Mohammad Alizadeh <br/>
-Science of Blockchains Conference, Aug 2022 <br/>
-ACM Advances in Financial Technologies (AFT), 2022 <br/>
+*ACM Advances in Financial Technologies (AFT), 2022* <br/>
+*Science of Blockchains Conference, Aug 2022 ([Talk video](https://www.youtube.com/watch?v=lB57a2wGo8Y&t=745s))* <br/>
+*2022 ACM Workshop on Developments in Consensus (ConsensusDay'22), November 2022*
 
 1. [Impact of Lossy Compression of Nanopore Raw Signal Data on Basecall and Consensus Accuracy](https://doi.org/10.1093/bioinformatics/btaa1017) <br/>
 Shubham Chandak, Kedar Tatwawadi, Srivatsan Sridhar, Tsachy Weissman <br/>
-Bioinformatics, 2020 <br/>
+*Bioinformatics, 2020* <br/>
 
 1. [Lower Bounds and a Near-Optimal Shrinkage Estimator for Least Squares using Random Projections](https://ieeexplore.ieee.org/document/9269358) <br/>
 Srivatsan Sridhar, Mert Pilanci, Ayfer Ozgur <br/>
-IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, 2020 <br/>
+*IEEE Journal on Selected Areas in Information Theory (JSAIT) - Special Issue on Estimation and Inference, 2020* <br/>
 
 1. [Optimality of a Protocol by Feige-Kilian-Naor for Three-Party Secure Computation](https://doi.org/10.1007/978-3-030-35423-7_11) <br/>
 Sibi Raj B. Pillai, Manoj Prabhakaran, Vinod M. Prabhakaran, Srivatsan Sridhar (in alphabetical order)<br/>
-20th International Conference on Cryptology in India, Hyderabad, India, 2019<br/>
+*20th International Conference on Cryptology in India, Hyderabad, India, 2019* <br/>
 [Read more](/secure_comp)
 
 1. [Energy-Weighted Multi-Band Novelty Functions for Onset Detection in Piano Music](https://www.ee.iitb.ac.in/student/~daplab/publications/2018/p154-subramani.pdf) <br/>
 K. Subramani, S. Sridhar (equal contribution) , Rohit M. A., and P. Rao<br/>
-Proc. of National Communications Conference 2018, Hyderabad, India.<br/>
+*Proc. of National Communications Conference 2018, Hyderabad, India.*<br/>
 [Read more](/onset_detection)<br/>
 
 
