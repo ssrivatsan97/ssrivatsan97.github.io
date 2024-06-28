@@ -11,7 +11,7 @@ Srivatsan Sridhar, Dionysis Zindros, David Tse
 
 ## **Publications** ##
 
-1. [Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints](https://arxiv.org/abs/2303.09113) <br/>
+1. [Nakamoto Consensus under Bounded Processing Capacity](https://arxiv.org/abs/2303.09113) <br/>
 Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse  <br/>
 *Computer and Communications Security (CCS), 2024* <br/>
 
