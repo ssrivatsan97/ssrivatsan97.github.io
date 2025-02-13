@@ -16,8 +16,7 @@ Stanford University (California, USA)
 
 My current research is on the security and performance of blockchain protocols. I am also broadly interested in information theory, machine learning, and their intersections.
 
-I am currently working as a senior researcher at [BabylonChain](https://babylonlabs.io/).
-I was advised by [Prof. David Tse](https://tselab.stanford.edu/) during my PhD. I have also done internships with [Mysten Labs](https://mystenlabs.com/), [Protocol Labs](https://protocol.ai/), and [Subspace Labs](https://subspace.network/).
+I'm a PhD student at Stanford University, advised by [Prof. David Tse](https://tselab.stanford.edu/). I am also currently working as a senior researcher at [BabylonChain](https://babylonlabs.io/). I have previously done internships with [Mysten Labs](https://mystenlabs.com/), [Protocol Labs](https://protocol.ai/), and [Subspace Labs](https://subspace.network/).
 
 Please look at my [projects](/projects) to know about my research and publications.
 
