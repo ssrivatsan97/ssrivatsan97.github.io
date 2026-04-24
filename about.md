@@ -9,13 +9,18 @@ permalink: /projects
 1. [Stingray: Fast Concurrent Transactions Without Consensus](https://arxiv.org/abs/2501.06531) <br/>
 Srivatsan Sridhar, Alberto Sonnino, Lefteris Kokoris-Kogias
 
-1. [Consensus Under Adversary Majority Done Right](https://arxiv.org/abs/2411.01689) <br/>
-Srivatsan Sridhar, Ertem Nusret Tas, Joachim Neu, Dionysis Zindros, David Tse
-
 1. [Better Safe than Sorry: Recovering after Adversarial Majority](https://arxiv.org/abs/2310.06338) <br/>
 Srivatsan Sridhar, Dionysis Zindros, David Tse
 
 ## **Publications** ##
+
+1. [BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper](https://eprint.iacr.org/2026/065.pdf) <br/>
+Sanjam Garg, Dimitris Kolonelos, Mikhail Sergeevitch, Srivatsan Sridhar, David Tse <br/>
+*Accepted to Computer and Communications Security (CCS), 2026* <br/>
+
+1. [Consensus Under Adversary Majority Done Right](https://arxiv.org/abs/2411.01689) <br/>
+Srivatsan Sridhar, Ertem Nusret Tas, Joachim Neu, Dionysis Zindros, David Tse <br/>
+*Financial Cryptography and Data Security (FC), 2025* <br/>
 
 1. [Nakamoto Consensus under Bounded Processing Capacity](https://arxiv.org/abs/2303.09113) <br/>
 Lucianna Kiffer, Joachim Neu, Srivatsan Sridhar, Aviv Zohar, David Tse  <br/>
